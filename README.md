@@ -4,7 +4,7 @@ Application that allows pokemon to be looked up and their stats displayed. Also 
 
 ## Requirements
 
-Needs [geckodriver.exe](https://github.com/mozilla/geckodriver/releases) in root directory to work.
+Needs [geckodriver.exe](https://github.com/mozilla/geckodriver/releases) in directory to work.
 
 [requirements.txt](https://github.com/nbreden00/Pokemon-Showdown-Assistant/blob/master/requirements.txt)
 
