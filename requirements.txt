@@ -1,0 +1,13 @@
+appdirs==1.4.3
+beckett==0.8.0
+certifi==2019.11.28
+chardet==3.0.4
+fcache==0.4.7
+idna==2.8
+inflect==0.2.5
+Pillow==7.0.0
+pokepy==0.6.0
+requests==2.21.0
+selenium==3.141.0
+six==1.10.0
+urllib3==1.24.3
